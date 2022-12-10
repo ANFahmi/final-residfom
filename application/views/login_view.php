@@ -56,6 +56,15 @@
       background-color: #17a2b8;
       height: 100vh;
     }
+
+    @media screen and (max-width: 768px) {
+    .container{
+      margin-left: 120px;
+      max-width: 250px;
+      }
+    }
+  
+
     #login .container #login-row #login-column #login-box {
       margin-top: 35px;
       margin-left: -115px;

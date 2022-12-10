@@ -21,7 +21,6 @@
      margin-top:2pc;
     }
   }
-}
 /*---------- MEDIA 480px ----------*/
 @media  (max-width: 480px) {
   #loading {position:fixed;z-index:999;top:0;left:0;width:100%;height:100%;
