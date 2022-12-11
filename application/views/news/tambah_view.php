@@ -2,11 +2,11 @@
 <div class="content-wrapper">
     <section class="content-header">
         <h1>
-            <i class="fa fa-plus" style="color:green"> </i> Tambah User
+            <i class="fa fa-plus" style="color:green"> </i> Tambah Berita
         </h1>
         <ol class="breadcrumb">
             <li><a href="<?php echo base_url('dashboard'); ?>"><i class="fa fa-dashboard"></i>&nbsp; Dashboard</a></li>
-            <li class="active"><i class="fa fa-plus"></i>&nbsp; Tambah User</li>
+            <li class="active"><i class="fa fa-plus"></i>&nbsp; Tambah Berita</li>
         </ol>
     </section>
     <section class="content">
